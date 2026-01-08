@@ -1,4 +1,4 @@
-## Recipe Sharing App
+## Recipe Sharing Plateform
 
 ## About
 A responsive recipe sharing application built with React, Tailwind CSS, Context API, and React Router for smooth client-side navigation. Dynamic recipe pages are implemented using `useParams`.
