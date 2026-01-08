@@ -33,7 +33,7 @@ src/
 ## Setup & Installation
 Clone the repository:
 
-git clone [<repo-url>](https://github.com/RukhsarYaqoob/Recipe-Sharing-Website.git)
+git clone [repo-url](https://github.com/RukhsarYaqoob/Recipe-Sharing-Website.git)
 
 Install dependencies:
 
